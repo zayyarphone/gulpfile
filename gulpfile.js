@@ -8,7 +8,7 @@ var uglify  = require('gulp-uglify');
 
 
 // declare the project base path
-var projectName   = 'awesomeProject';
+var projectName   = 'awesomeProject/';
 var sassSrc       = projectName + 'sass/main.scss';
 var cssDest       = projectName + 'css';
 var imgDest       = projectName + 'images/';
