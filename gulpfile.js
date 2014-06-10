@@ -1,10 +1,10 @@
 // load the required modules
-var gulp = require('gulp');
+var gulp         = require('gulp');
 var autoprefixer = require('gulp-autoprefixer');
-var sass = require('gulp-ruby-sass');
-var imagemin = require('gulp-imagemin');
-var concat  = require('gulp-concat');
-var uglify  = require('gulp-uglify');
+var sass         = require('gulp-ruby-sass');
+var imagemin     = require('gulp-imagemin');
+var concat       = require('gulp-concat');
+var uglify       = require('gulp-uglify');
 
 
 // declare the project base path
